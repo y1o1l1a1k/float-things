@@ -144,3 +144,35 @@
 .just-thing2 {
 	margin-top: 20px;
 }
+.imgrock3 {
+	width: 352px;
+	height: 216px;
+}
+.imgrock2 {
+	width: 352px;
+	float: left;
+	background-color: #F8F8F8;
+	margin-top: 16px;
+}
+.imgmeat2 {
+	width: 352px;
+	float: left;
+	background-color: #F8F8F8;
+	margin-top: 16px;
+	margin-left: 16px; 
+}
+.meatimg3 {
+	width: 352px;
+	height: 216px;
+}
+.rockimage6 {
+	width: 352px;
+	height: 216px;
+}
+.imgrock4 {
+	width: 352px;
+	float: left;
+	background-color: #F8F8F8;
+	margin-top: 16px;
+	margin-left: 16px;
+}
