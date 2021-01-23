@@ -1,0 +1,146 @@
+.clear {
+	clear: both;
+}
+.container {
+	width: 1088px;
+	margin: 50px auto;
+}
+.left-food-wraper {
+	width: 536px;
+	background-color: #F8F8F8;
+	float: left;
+	margin-top: 30px;
+}
+.right-food-wraper {
+	width: 536px;
+	background-color: #F8F8F8;
+	float: right;
+	margin-top: 30px;
+}
+.food-text {
+	float: left;
+	width: 260px;
+	margin-left: 20px;
+	padding-top: 50px;
+}
+.img-wraper {
+	float: left;
+}
+.restaurant {
+	font-family: 'Poppins';
+	font-size: 14px;
+	color: #5863F8;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+.extrabold {
+	font-family: 'Poppins-ExtraBold';
+	font-size: 42px;
+	width: 498px;
+}
+.bold {
+	font-family: 'Poppins';
+	font-size: 14px;
+	color: #5863F8;
+	text-transform: uppercase;
+}
+.semibold {
+	font-family: 'Poppins-SemiBold';
+	font-size: 18px;
+	color: #000000;
+	margin-top: 3px;
+}
+.medium {
+	font-family: 'Poppins-Medium';
+	font-size: 14px;
+	color: #B1B1B1;
+	margin-top: 3px;
+}
+.container1 {
+	margin-top: 20px;
+}
+.left-food-wraper2 {
+	width: 536px;
+	background-color: #F8F8F8;
+	float: left;
+	margin-top: 30px;
+}
+.right-food-wraper2 {
+	width: 536px;
+	background-color: #F8F8F8;
+	float: right;
+	margin-top: 30px;
+}
+.container2 {
+	width: 1088px;
+	margin: 0 auto;
+	margin-top: 90px;
+}
+.blog2 {
+	font-family: 'Poppins';
+	font-size: 14px;
+	color: #5863F8;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	margin-top: 50px;
+}
+.extrabold2 {
+	font-family: 'Poppins-ExtraBold';
+	font-size: 42px;
+	width: 498px;
+	margin-bottom: 40px;
+}
+
+.rockimage {
+	width: 352px;
+	background-color: #F8F8F8;
+}
+.food-text2 {
+	margin-top: 23px;
+}
+.bold3 {
+	font-family: 'Poppins';
+	font-size: 14px;
+	color: #5863F8;
+	text-transform: uppercase;
+	padding-left: 125px;
+}
+.semibold3 {
+	font-family: 'Poppins-SemiBold';
+	font-size: 18px;
+	color: #000000;
+	margin-top: 5px;
+	padding-left: 63px;
+}
+.medium3 {
+	font-family: 'Poppins-Medium';
+	font-size: 14px;
+	color: #B1B1B1;
+	margin-top: 10px;
+	padding-left: 46px;
+	padding-bottom: 23px;
+}
+.meatimg {
+	width: 352px;
+	background-color: #F8F8F8;
+	float: 
+}
+.img-wraper3 {
+	width: 352px;
+	height: 216px;
+}
+.imgrock {
+	float: left;
+}
+.imgmeat {
+	float: left;
+	margin-left: 16px;
+}
+.img-wraper2 {
+	width: 352px;
+	height: 216px;
+}
+
+.just-thing2 {
+	margin-top: 20px;
+}
